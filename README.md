@@ -4,7 +4,7 @@
 
 **公益主题 AI 短片｜代际理解 · 青年成长 · 家庭支持**
 
-[▶ 点击观看完整短片](./short-film.mp4)
+[▶ 下载观看完整短片](https://github.com/Ling61611941/ai-video-portfolio/releases/download/v1.0/short-film.mp4)
 
 > 我们曾经以为，父亲无所不能。  
 > 后来才知道，他也曾是一个第一次面对世界的年轻人。
